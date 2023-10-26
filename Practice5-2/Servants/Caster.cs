@@ -10,7 +10,7 @@ namespace Practice5_2.Servants
         public override void UseSkill()
         {
             base.UseSkill();
-            Hp += 100 / 2;
+            Hp += Hp / 2;
         }
 
         public override void UseUltimate(params Servant[] targets)
