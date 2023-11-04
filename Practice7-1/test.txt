@@ -1,0 +1,8 @@
+pretty 漂亮 adj
+bear 熊 n
+walk 走路 v
+bear 忍受 v
+star 星星 n
+homogeneous 同質的 adj
+test 測試 v
+prepare 準備 v
